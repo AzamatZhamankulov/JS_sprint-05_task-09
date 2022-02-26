@@ -1,5 +1,5 @@
 let countMin = 1,
-    countMax = 15,
+    countMax = 10,
     win = getRandomNum(countMin, countMax),
     guessesLeft = 3;
 
